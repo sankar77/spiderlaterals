@@ -1,4 +1,6 @@
 # spiderlaterals
+
+This repository includes files related to spider laterals task.
 REAL TIME CHAT APPLICATION
 LANGUAGE USED
 1.PHP
@@ -12,4 +14,6 @@ Each user has to enter their name and the message which is displayed on the scre
 The name and message are stored in the database along with an id(PRIMARY KEY).
 The name and message are simultaneously inserted and displayed.
 
-Additional files are added into this repository
+Additional files are added into this repository.
+
+
